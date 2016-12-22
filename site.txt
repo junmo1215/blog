@@ -1,0 +1,34 @@
+---
+title: Junmo
+keywords: 
+avatar: /_image/avatar.jpg
+cover: /_image/cover.jpg
+posts_per_page: 
+post_content_type: markdown
+post_paragraph_indent: no
+file_path: /
+show_toc: no
+mathjax: yes
+disqus: 
+duoshuo: 
+template_priority: self
+template_inherit: no
+template_clone_allowed: yes
+autoreload: admin
+post_url_format: normal
+scripts_per_page: 
+scripts_for_doc: 
+domain: junmo.farbox.com
+domains:
+- junmo.farbox.com
+dns: 
+auto_image: no
+comment: no
+sync_by_3rd: no
+sync_by_3rd_public: no
+outside_links_allowed: no
+score_degree: 
+hidden_urls: 
+users: 
+client_date: 1480943192962
+---
