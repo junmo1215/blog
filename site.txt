@@ -3,7 +3,7 @@ title: Junmo
 keywords: 
 avatar: /_image/avatar.jpg
 cover: /_image/cover.jpg
-posts_per_page: 
+posts_per_page: 5
 post_content_type: markdown
 post_paragraph_indent: no
 file_path: /
@@ -30,5 +30,5 @@ outside_links_allowed: no
 score_degree: 
 hidden_urls: 
 users: 
-client_date: 1480943192962
+client_date: 1487870334706
 ---
