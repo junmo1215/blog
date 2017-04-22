@@ -39,6 +39,10 @@ conda create --name python2 python=2
 
 ![python_version](http://7xrop1.com1.z0.glb.clouddn.com/others/python_version.png)
 
+> 在windows系统中执行 `activate [name]` 进入虚拟环境 `deactivate` 退出
+
+# 打开ipython notebook
+
 然后执行`ipython notebook`就能打开Jupyter，然而好像不管从python2还是python3环境进入，Jupyter中的python版本都是3.5的：
 
 ![python_version_in_jupyter](http://7xrop1.com1.z0.glb.clouddn.com/others/python_version_in_jupyter.png)
