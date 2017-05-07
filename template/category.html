@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block title %}{{ site.configs.title }} - 分类{% endblock %}
+
+{% set cats = get_folders("/") %}
+
+{% block content %}
+<div class="mid-col">
+    <div class="mid-col-container">
+        <div id="content" class="inner">
+
+			{% for cat in cats %}
+				{% set posts = get_posts(path=cat.path) %}
+				{% if posts %}
+	            <section class="archives"><h1 class="year">{{ cat.title | upper }}</h1>
+	                {% for post in posts %}
+	                <article>
+	                    <div class="meta">
+	                        <span class="date">{{ post.date | date("%Y-%m-%d") }}</span>
+	                        <br>
+	                    </div>
+						{% if post.metadata.link %}
+						<h1 class="title">[链接]<a href="{{post.metadata.link}}" target="_blank">{{ post.title }}</a></h1>
+						{% else %}
+	                    <h1 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+						{% endif %}
+	                </article>
+	                {% endfor %}
+	            </section>
+	            {% endif %}
+			{% endfor %}
+
+        </div>
+    </div>
+    {% include 'include/footer.html' %}
+</div>
+{% endblock %}
