@@ -2,6 +2,7 @@
 date: 2016-12-01 01:54
 status: public
 title: '[笔记]Exokernel An Operating System Architecture for Application-Level Resource Management'
+tag: 操作系统， OS
 ---
 
 [原文链接](https://pdos.csail.mit.edu/6.828/2008/readings/engler95exokernel.pdf)

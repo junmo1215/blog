@@ -2,6 +2,7 @@
 date: 2016-11-30 15:44
 status: public
 title: '[笔记]An analysis of Linux Scalability to Many Cores'
+tag: 操作系统， OS
 ---
 
 [原文链接](https://pdos.csail.mit.edu/papers/linux:osdi10.pdf)

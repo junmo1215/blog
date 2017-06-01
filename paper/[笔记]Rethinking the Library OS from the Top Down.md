@@ -2,6 +2,7 @@
 date: 2016-12-22 21:25
 status: public
 title: '[笔记]Rethinking the Library OS from the Top Down'
+tag: 操作系统， OS
 ---
 
 [原文链接](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos2011-drawbridge.pdf)
