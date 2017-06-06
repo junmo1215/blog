@@ -9,8 +9,8 @@
 - 代码片段管理 <https://codepaste.net/mysnippets>
 - 正则表达式30分钟入门教程 <http://deerchao.net/tutorials/regex/regex.htm>
 - 在Ubuntu系统安装OpenCV <http://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/>
-
-> 编译失败（ ```fatal error: hdf5.h: No such file or directory``` ）的解决办法： <https://github.com/opencv/opencv/issues/6016>
+- > 编译失败（ ```fatal error: hdf5.h: No such file or directory``` ）的解决办法： <https://github.com/opencv/opencv/issues/6016>
+- 安装Ubuntu和tensorflow_gpu版本 <https://bigballon.github.io/posts/Learn_DL_hard_way_01.html>
 
 ## 机器学习相关资料
 

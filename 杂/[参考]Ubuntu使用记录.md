@@ -33,3 +33,24 @@ sudo dpkg -i [名称].deb
 参考：
 - [ubuntu下如何用命令行运行deb安装包 - windtail - 博客园](http://www.cnblogs.com/windtail/archive/2012/06/02/2623175.html)
 
+# 删除Ubuntu升级后旧的内核文件
+
+每次Ubuntu更新的时候会下载新的内核文件，但是安装之后并没有自动删除旧的文件，导致Ubuntu的这个分区会磁盘空间不足
+
+首先使用```dpkg --get-selections|grep linux-image```找到内核文件
+
+![select_linux_image](http://7xrop1.com1.z0.glb.clouddn.com/others/select_linux_image.png)
+
+使用```sudo apt-get remove linux-image-{{版本号}}-generic```删除对应的文件（注意修改版本号）
+
+![remove_old_image](http://7xrop1.com1.z0.glb.clouddn.com/others/remove_old_image.png)
+
+删除之后再查看就会发现删除的这个被标记为了deinstall
+
+![after_remove](http://7xrop1.com1.z0.glb.clouddn.com/others/after_remove.png)
+
+> 实际操作的时候不需要每删除一个就使用```dpkg --get-selections|grep linux-image```查看一下，在删除之后会提示还有哪些旧的文件，按照删除过程中给的信息就行了，或者直接去/boot目录中看还有哪些剩余
+不过不确定版本号最大的那个能不能删除，没有做过测试
+
+参考：
+- [ubuntu boot空间不足的解决方法](http://blog.csdn.net/yypony/article/details/17260153)
