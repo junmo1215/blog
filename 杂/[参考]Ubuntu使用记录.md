@@ -54,3 +54,21 @@ sudo dpkg -i [名称].deb
 
 参考：
 - [ubuntu boot空间不足的解决方法](http://blog.csdn.net/yypony/article/details/17260153)
+
+
+# 重新安装后的操作
+
+> 这部分是个人习惯，仅作为备忘
+
+1. 修改快捷键
+	- 启动终端（系统设置 - 键盘 - 快捷键）
+	- 切换输入法（系统设置 - 文本输入）
+2. 修改电源选项（系统设置 - 电源）
+3. 修改窗口菜单栏位置（系统设置 - 外观 - 行为 - 显示窗口菜单）
+4. 开启工作区（系统设置 - 外观 - 行为 - 开启工作区）
+5. 修改终端复制粘贴快捷方式（终端菜单栏 - 编辑 - 首选项 - 快捷键）
+6. 调整输入法
+	- System Settings - Language Support - Keyboard input method system 改成fcitx
+7. 安装git，同步.gitconfig文件（C:\Users\MyLogin\.gitconfig -> ~/.gitconfig）
+
+
