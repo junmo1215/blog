@@ -95,6 +95,10 @@
 						<li><a href="/isaid.md">{{ isaid_post.title }}</a></li>
 						{% endif %}
 						
+                         {% if has('toc.md') %} 
+                        <li><a href="/toc.md">目录</a></li>
+                         {% endif %} 
+
                         {% if has('links.md') %}
                         <li><a href="/links.md">链接</a></li>
                         {% endif %}
