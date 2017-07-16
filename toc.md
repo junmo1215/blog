@@ -12,7 +12,6 @@ title: '[参考]网站目录'
 
 - [[折腾]Ubuntu安装Anaconda](http://junmo.farbox.com/post/za/-zhe-teng-ubuntuan-zhuang-anaconda)
 - [[参考]Ubuntu使用记录](http://junmo.farbox.com/post/za/-can-kao-ubuntushi-yong-ji-lu)
-- [网站目录](http://junmo.farbox.com/post/za/-can-kao-wang-zhan-mu-lu)
 
 # 机器学习
 
