@@ -338,7 +338,7 @@ $$
 - TensorFlow 1.0 以上
     - windows系统tensorflow GPU版本目前只支持python 3.5
     - [windows tensorflow安装教程](https://www.tensorflow.org/install/install_windows)
-    - [Ubuntu tensorflow安装教程](https://bigballon.github.io/posts/Learn_DL_hard_way_01.html)
+    - [Ubuntu tensorflow安装教程](https://zhuanlan.zhihu.com/p/28494550)
 - pygame
 - openCV-Python
     - [windows python3 安装openCV](https://www.solarianprogrammer.com/2016/09/17/install-opencv-3-with-python-3-on-windows/)
