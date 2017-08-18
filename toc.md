@@ -15,6 +15,8 @@ title: '[参考]网站目录'
 
 # 机器学习
 
+## coursera上吴恩达课程笔记
+
 - [[笔记]0.machine-learning-第0篇笔记](http://junmo.farbox.com/post/ji-qi-xue-xi/-bi-ji-0.machine-learning-di-0pian-bi-ji)
 - [[笔记]1.machine-learning-介绍](http://junmo.farbox.com/post/ji-qi-xue-xi/-bi-ji-1.machine-learning-jie-shao)
 - [[笔记]2.machine-learning-多元线性回归](http://junmo.farbox.com/post/ji-qi-xue-xi/-bi-ji-2.machine-learning-duo-yuan-xian-xing-hui-gui)
@@ -28,9 +30,17 @@ title: '[参考]网站目录'
 - [[笔记]10.machine-learning-大数据量下的梯度下降算法](http://junmo.farbox.com/post/ji-qi-xue-xi/-bi-ji-10.machine-learning-da-shu-ju-liang-xia-de-ti-du-xia-jiang-suan-fa)
 - [[笔记]11.machine-learning-应用示例:照片中的光学字符识别](http://junmo.farbox.com/post/ji-qi-xue-xi/-bi-ji-11.machine-learning-ying-yong-shi-li-zhao-pian-zhong-de-guang-xue-zi-fu-shi-bie)
 
+## 实作
+
+- [[实作]利用强化学习玩flappy bird](http://junmo.farbox.com/post/ji-qi-xue-xi/-shi-zuo-li-yong-qiang-hua-xue-xi-wan-flappy-bird)
+
 # paper笔记
 
 - [[笔记]Rethinking the Library OS from the Top Down](http://junmo.farbox.com/post/paper/-bi-ji-rethinking-the-library-os-from-the-top-down)
 - [[笔记]Exokernel An Operating System Architecture for Application-Level Resource Management](http://junmo.farbox.com/post/paper/-bi-ji-exokernel-an-operating-system-architecture-for-application-level-resource-management)
 - [[笔记]An analysis of Linux Scalability to Many Cores](http://junmo.farbox.com/post/paper/-bi-ji-an-analysis-of-linux-scalability-to-many-cores)
 - [[笔记]Redundant Memory Mappings for Fast Access to Large Memories](http://junmo.farbox.com/post/paper/-bi-ji-redundant-memory-mappings-for-fast-access-to-large-memories)
+
+# 科普
+
+- [[科普]物件導向和程序導向](http://junmo.farbox.com/post/ke-pu/-ke-pu-wu-jian-dao-xiang-he-cheng-xu-dao-xiang)
