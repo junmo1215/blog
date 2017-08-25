@@ -41,6 +41,6 @@ title: '[参考]网站目录'
 - [[笔记]An analysis of Linux Scalability to Many Cores](http://junmo.farbox.com/post/paper/-bi-ji-an-analysis-of-linux-scalability-to-many-cores)
 - [[笔记]Redundant Memory Mappings for Fast Access to Large Memories](http://junmo.farbox.com/post/paper/-bi-ji-redundant-memory-mappings-for-fast-access-to-large-memories)
 
-# 科普
+# 教程
 
-- [[科普]物件導向和程序導向](http://junmo.farbox.com/post/ke-pu/-ke-pu-wu-jian-dao-xiang-he-cheng-xu-dao-xiang)
+- [[教程]物件導向和程序導向](http://junmo.farbox.com/post/ke-pu/-ke-pu-wu-jian-dao-xiang-he-cheng-xu-dao-xiang)
