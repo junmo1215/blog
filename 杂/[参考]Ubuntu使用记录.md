@@ -10,6 +10,8 @@ title: '[参考]Ubuntu使用记录'
 
 ![ubuntu_version](http://7xrop1.com1.z0.glb.clouddn.com/others/ubuntu_version.png)
 
+[TOC]
+
 # 修改环境变量
 
 修改 /etc/environment 文件，直接添加`变量名='变量值'`的方式修改，不需要export，这个文件修改的是整个系统的环境。
@@ -71,4 +73,19 @@ sudo dpkg -i [名称].deb
 	- System Settings - Language Support - Keyboard input method system 改成fcitx
 7. 安装git，同步.gitconfig文件（C:\Users\MyLogin\.gitconfig -> ~/.gitconfig）
 
+# 查看以及杀掉进程
 
+查看名字中包含python的进程：
+
+``` sh
+ps -ef | grep python
+```
+
+![Screenshot](http://7xrop1.com1.z0.glb.clouddn.com/others/Screenshot_2017-08-30_17-39-09.png)
+
+第二列为进程的pid，杀掉进程的指令是：```kill -s 9 [pid]```
+
+执行后没有输出就表明结束进程成功
+
+参考：
+- [Linux中Kill进程的N种方法](http://blog.csdn.net/smarxx/article/details/6664219)
