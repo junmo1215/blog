@@ -33,6 +33,7 @@ title: '[参考]网站目录'
 ## 实作
 
 - [[实作]利用强化学习玩flappy bird](http://junmo.farbox.com/post/ji-qi-xue-xi/-shi-zuo-li-yong-qiang-hua-xue-xi-wan-flappy-bird)
+- [[实作]从图像分类到风格迁移](http://junmo.farbox.com/post/ji-qi-xue-xi/-shi-zuo-cong-tu-xiang-fen-lei-dao-feng-ge-qian-yi)
 
 # paper笔记
 

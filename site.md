@@ -52,7 +52,7 @@ qq:
 qq2: 
 qqqun: 
 qqqunname: 
-weixin: 
+weixin: z997128120 &#10;↑上面有二维码
 douban: 
 fanfou: 
 zhihu: https://www.zhihu.com/people/junmo-lu/activities
