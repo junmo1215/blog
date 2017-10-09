@@ -41,7 +41,7 @@ something:
 facebook: http://facebook.com/junmo1215
 google: 
 twitter: 
-github: https://github.com/ljm1992
+github: https://github.com/junmo1215
 linkedin: 
 pinterest: 
 delicious: 
