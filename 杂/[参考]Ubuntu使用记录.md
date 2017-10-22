@@ -89,3 +89,20 @@ ps -ef | grep python
 
 参考：
 - [Linux中Kill进程的N种方法](http://blog.csdn.net/smarxx/article/details/6664219)
+
+# 查看内存(memory)使用量
+
+可以使用htop
+
+安装：
+
+``` sh
+sudo apt-get install htop
+```
+
+使用：
+
+``` sh
+htop
+```
+
