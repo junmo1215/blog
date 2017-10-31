@@ -35,6 +35,10 @@ title: '[参考]网站目录'
 - [[实作]利用强化学习玩flappy bird](http://junmo.farbox.com/post/ji-qi-xue-xi/-shi-zuo-li-yong-qiang-hua-xue-xi-wan-flappy-bird)
 - [[实作]从图像分类到风格迁移](http://junmo.farbox.com/post/ji-qi-xue-xi/-shi-zuo-cong-tu-xiang-fen-lei-dao-feng-ge-qian-yi)
 
+## 实作2584-fibonacci
+
+- [[实作]TDLearning in 2584-fibonacci (一)、搭建基础框架](http://junmo.farbox.com/post/ji-qi-xue-xi/-shi-zuo-tdlearning-in-2584-fibonacci-da-jian-ji-chu-kuang-jia)
+
 # paper笔记
 
 - [[笔记]Rethinking the Library OS from the Top Down](http://junmo.farbox.com/post/paper/-bi-ji-rethinking-the-library-os-from-the-top-down)

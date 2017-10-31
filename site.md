@@ -34,7 +34,7 @@ client_date: 1494152474428
 
 subtitle: 
 author: Junmo
-authorinfo: 研究生在读
+authorinfo: 研究生在读 <br/>博客搬家中： https://junmo1215.github.io
 somethingtitle: 
 something: 
 
